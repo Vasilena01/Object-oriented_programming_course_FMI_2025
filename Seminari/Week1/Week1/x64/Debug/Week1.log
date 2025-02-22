@@ -1,0 +1,5 @@
+﻿  Week1.cpp
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week1\Week1\Zad4_Graph.h(197,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Week1.cpp')
+  
+  Week1.vcxproj -> D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week1\x64\Debug\Week1.exe
