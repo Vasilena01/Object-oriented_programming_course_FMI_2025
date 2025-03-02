@@ -21,9 +21,21 @@
     <ClCompile Include="Zad10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Zad8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Zad9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Zad10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Zad8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Zad9.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

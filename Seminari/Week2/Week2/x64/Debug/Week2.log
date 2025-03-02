@@ -1,15 +1,2 @@
-﻿  Zad10.cpp
-D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(77,23): warning C4018: '<': signed/unsigned mismatch
-D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(79,9): error C2664: 'void saveCourseToFile(const char *,const ElectiveCourse *)': cannot convert argument 2 from 'const ElectiveCourse' to 'const ElectiveCourse *'
-      D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(79,45):
-      No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
-      D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.h(43,6):
-      see declaration of 'saveCourseToFile'
-      D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(79,9):
-      while trying to match the argument list '(const char *, const ElectiveCourse)'
-  
-D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(299,23): warning C4018: '<': signed/unsigned mismatch
-D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(311,23): warning C4018: '<': signed/unsigned mismatch
-D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(323,23): warning C4018: '<': signed/unsigned mismatch
-D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(326,25): warning C4018: '>=': signed/unsigned mismatch
-D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\Week2\Zad10.cpp(326,50): warning C4018: '<=': signed/unsigned mismatch
+﻿  Zad9.cpp
+  Week2.vcxproj -> D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week2\x64\Debug\Week2.exe

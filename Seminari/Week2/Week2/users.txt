@@ -1,0 +1,6 @@
+JohnDoe john@example.com password123
+JaneDoe jane@example.com securepass
+Alice alice@example.com alice123
+vasi v@gmail.com 123
+vasi vasi2@mail.bg 1234
+dani dani@mail.bg 123

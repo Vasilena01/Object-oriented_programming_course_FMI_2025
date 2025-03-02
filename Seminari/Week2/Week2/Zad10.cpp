@@ -74,63 +74,62 @@ ElectiveCourse* getDataFromFile(const char* filename, unsigned& coursesCount)
 
 void saveCoursesToFile(const char* filename, const ElectiveCourse* courses, unsigned size)
 {
-    for (int i = 0; i < size; i++)
-    {
-        saveCourseToFile(filename, courses[i]);
-    }
+//    for (int i = 0; i < size; i++)
+//    {
+//        saveCourseToFile(filename, courses[i]);
+//    }
 }
-
 void saveCourseToFile(const char* filename, const ElectiveCourse& course)
 {
-    std::fstream file(filename, std::ios::in | std::ios::out);
-    if (!file.is_open())
-        return;
-
-    std::ofstream tempFile("temp.csv");
-    if (!tempFile.is_open())
-        return;
-    // Check if course already exists in file
-    if (containsCourse(file, course.id))
-    {
-        file.seekp(0, std::ios::beg);
-        char buff[GLOBAL_CONSTANTS::SIZE];
-
-        while (file.getline(buff, sizeof(buff))) {
-            int index = 0;
-            char temp[GLOBAL_CONSTANTS::SIZE];
-
-            extractField(buff, temp, index);
-            int id = std::atoi(temp);
-
-            if (id == course.id) {
-                tempFile << course.id << ','
-                    << course.name << ','
-                    << getCategoryId(course.category) << ','
-                    << course.creditsCount << ','
-                    << course.examType << '\n';
-            }
-            else {
-                tempFile << buff << '\n';
-            }
-        }
-    }
-    else
-    {
-        // Check if the file is empty
-        file.seekp(0, std::ios::end);
-        if (file.tellp() == 0)
-        {
-            tempFile << "id, name, category, creditsCount, examType\n";
-        }
-
-        tempFile << course.id << ','
-            << course.name << ','
-            << getCategoryId(course.category) << ','
-            << course.creditsCount << ','
-            << course.examType << '\n';
-    }
-
-    copyFileToFile(filename, "temp.csv");
+//    std::fstream file(filename, std::ios::in | std::ios::out);
+//    if (!file.is_open())
+//        return;
+//
+//    std::ofstream tempFile("temp.csv");
+//    if (!tempFile.is_open())
+//        return;
+//    // Check if course already exists in file
+//    if (containsCourse(file, course.id))
+//    {
+//        file.seekp(0, std::ios::beg);
+//        char buff[GLOBAL_CONSTANTS::SIZE];
+//
+//        while (file.getline(buff, sizeof(buff))) {
+//            int index = 0;
+//            char temp[GLOBAL_CONSTANTS::SIZE];
+//
+//            extractField(buff, temp, index);
+//            int id = std::atoi(temp);
+//
+//            if (id == course.id) {
+//                tempFile << course.id << ','
+//                    << course.name << ','
+//                    << getCategoryId(course.category) << ','
+//                    << course.creditsCount << ','
+//                    << course.examType << '\n';
+//            }
+//            else {
+//                tempFile << buff << '\n';
+//            }
+//        }
+//    }
+//    else
+//    {
+//        // Check if the file is empty
+//        file.seekp(0, std::ios::end);
+//        if (file.tellp() == 0)
+//        {
+//            tempFile << "id, name, category, creditsCount, examType\n";
+//        }
+//
+//        tempFile << course.id << ','
+//            << course.name << ','
+//            << getCategoryId(course.category) << ','
+//            << course.creditsCount << ','
+//            << course.examType << '\n';
+//    }
+//
+//    copyFileToFile(filename, "temp.csv");
 }
 
 void removeCourseById(const char* filename, unsigned id)
@@ -333,12 +332,12 @@ void printCourseWithCreditsInInterval(ElectiveCourse* courses, unsigned& courses
 
 void input10()
 {
-    const char filename[GLOBAL_CONSTANTS::FILENAME_SIZE] = "izbiraemi.csv";
+    /*const char filename[GLOBAL_CONSTANTS::FILENAME_SIZE] = "izbiraemi.csv";
     ElectiveCourse courses[3] = {
         {1, "Mathematics", Category::M, 5, ExamType::EXAM},
         {2, "Programming", Category::PR, 6, ExamType::COURSE_PROJECT | ExamType::TEST},
         {3, "Physics", Category::OKN, 4, ExamType::EXAM | ExamType::TEST}
-    };
+    };*/
 
-    saveCoursesToFile(filename, courses, 3);
+    //saveCoursesToFile(filename, courses, 3);
 }
