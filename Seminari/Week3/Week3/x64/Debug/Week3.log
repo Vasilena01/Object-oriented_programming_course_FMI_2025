@@ -1,0 +1,6 @@
+﻿  Zad7.cpp
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week3\Week3\Zad7.cpp(95,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week3\Week3\Zad7.cpp(97,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week3\Week3\Zad7.cpp(203,10): warning C4101: 'pokemon': unreferenced local variable
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week3\Week3\Zad7.cpp(16,1): warning C4715: 'getTypeById': not all control paths return a value
+  Week3.vcxproj -> D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week3\x64\Debug\Week3.exe
