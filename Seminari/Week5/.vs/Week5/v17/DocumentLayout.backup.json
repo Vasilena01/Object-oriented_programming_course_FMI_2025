@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Week5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|solutionrelative:Week5\\Week5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|solutionrelative:Week5\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|solutionrelative:Week5\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|solutionrelative:Week5\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68ABEF58-4BA7-4511-9A55-C7AD116D7712}|Week5\\Week5.vcxproj|solutionrelative:Week5\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Library.cpp",
+              "RelativeDocumentMoniker": "Week5\\Library.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Library.cpp*",
+              "RelativeToolTip": "Week5\\Library.cpp*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAMwCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T13:48:12.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.h",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Library.h",
+              "RelativeDocumentMoniker": "Week5\\Library.h",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Library.h*",
+              "RelativeToolTip": "Week5\\Library.h*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T13:43:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Book.cpp",
+              "RelativeDocumentMoniker": "Week5\\Book.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Book.cpp",
+              "RelativeToolTip": "Week5\\Book.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T13:43:07.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.h",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Book.h",
+              "RelativeDocumentMoniker": "Week5\\Book.h",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Book.h",
+              "RelativeToolTip": "Week5\\Book.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T13:40:31.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week5.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Week5.cpp",
+              "RelativeDocumentMoniker": "Week5\\Week5.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week5\\Week5\\Week5.cpp*",
+              "RelativeToolTip": "Week5\\Week5.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T13:39:53.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
