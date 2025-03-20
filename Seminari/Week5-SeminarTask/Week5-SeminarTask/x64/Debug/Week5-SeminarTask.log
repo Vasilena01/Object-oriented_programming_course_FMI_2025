@@ -1,0 +1,9 @@
+﻿  MonthlyPlanner.cpp
+  Task.cpp
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week5-SeminarTask\Week5-SeminarTask\Task.cpp(14,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week5-SeminarTask\Week5-SeminarTask\Task.cpp(27,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week5-SeminarTask\Week5-SeminarTask\Task.cpp(115,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Week5-SeminarTask.cpp
+  Generating Code...
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week5-SeminarTask\Week5-SeminarTask\MonthlyPlanner.cpp(31,1): error C4716: 'MonthlyPlanner::operator=': must return a value
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week5-SeminarTask\Week5-SeminarTask\MonthlyPlanner.cpp(6,1): error C4716: 'MonthlyPlanner::getMonthByIndex': must return a value
