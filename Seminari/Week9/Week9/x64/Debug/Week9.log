@@ -1,0 +1,11 @@
+﻿  FoodPanda.cpp
+  MyString.cpp
+  Order.cpp
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week9\Week9\Order.cpp(60,39): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week9\Week9\Order.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week9\Week9\Order.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+  Restaurant.cpp
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week9\Week9\Restaurant.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+  Week9.cpp
+  Generating Code...
+  Week9.vcxproj -> D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week9\x64\Debug\Week9.exe
