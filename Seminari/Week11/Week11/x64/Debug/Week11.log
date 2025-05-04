@@ -1,0 +1,17 @@
+﻿  ArrFileReader.cpp
+  ArrFileWriter.cpp
+  BinaryFileReader.cpp
+  BinaryFileWriter.cpp
+  CsvFileReader.cpp
+  CsvFileWriter.cpp
+  FileFactory.cpp
+  FileReader.cpp
+  FileWriter.cpp
+  HelperFunctions.cpp
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week11\Week11\HelperFunctions.cpp(37,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week11\Week11\HelperFunctions.cpp(45,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MyString.cpp
+D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week11\Week11\MyString.cpp(72,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Week11.cpp
+  Generating Code...
+  Week11.vcxproj -> D:\Projects\C++\FMI_OOP_course_2025\Object-oriented_programming_course_FMI_2025\Seminari\Week11\x64\Debug\Week11.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A38034B5-AF91-4ECA-9A17-206743559023}|Week11\\Week11.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week11\\Week11\\FileFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A38034B5-AF91-4ECA-9A17-206743559023}|Week11\\Week11.vcxproj|solutionrelative:Week11\\FileFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A38034B5-AF91-4ECA-9A17-206743559023}|Week11\\Week11.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week11\\Week11\\FileFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A38034B5-AF91-4ECA-9A17-206743559023}|Week11\\Week11.vcxproj|solutionrelative:Week11\\FileFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileFactory.h",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week11\\Week11\\FileFactory.h",
+              "RelativeDocumentMoniker": "Week11\\FileFactory.h",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week11\\Week11\\FileFactory.h",
+              "RelativeToolTip": "Week11\\FileFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-03T09:21:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileFactory.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week11\\Week11\\FileFactory.cpp",
+              "RelativeDocumentMoniker": "Week11\\FileFactory.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week11\\Week11\\FileFactory.cpp",
+              "RelativeToolTip": "Week11\\FileFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T08:58:27.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
