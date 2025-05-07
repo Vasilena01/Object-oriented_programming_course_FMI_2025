@@ -135,7 +135,7 @@ void Polynom::free()
 void Polynom::resize(size_t newSize)
 {
 	int* newCoef = new int[newSize];
-	for (int i = 0; i < newSize; i++)
+	for (int i = 0; i < size; i++)
 	{
 		newCoef[i] = this->coeficients[i];
 	}
