@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\Team.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Team.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\Team.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\GlobalConstants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\GlobalConstants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Week12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C50FDFD-B6DA-4C99-9C19-CF7336606477}|Week12\\Week12.vcxproj|solutionrelative:Week12\\Week12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.h",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Team.h",
+              "RelativeDocumentMoniker": "Week12\\Team.h",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Team.h",
+              "RelativeToolTip": "Week12\\Team.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T10:00:44.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Team.cpp",
+              "RelativeDocumentMoniker": "Week12\\Team.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Team.cpp",
+              "RelativeToolTip": "Week12\\Team.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T10:02:14.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.h",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Group.h",
+              "RelativeDocumentMoniker": "Week12\\Group.h",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Group.h",
+              "RelativeToolTip": "Week12\\Group.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T08:40:45.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Group.cpp",
+              "RelativeDocumentMoniker": "Week12\\Group.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Group.cpp",
+              "RelativeToolTip": "Week12\\Group.cpp",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAMwIwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T08:54:48.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.h",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Person.h",
+              "RelativeDocumentMoniker": "Week12\\Person.h",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Person.h",
+              "RelativeToolTip": "Week12\\Person.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T08:27:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Person.cpp",
+              "RelativeDocumentMoniker": "Week12\\Person.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Person.cpp",
+              "RelativeToolTip": "Week12\\Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T08:35:23.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalConstants.h",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\GlobalConstants.h",
+              "RelativeDocumentMoniker": "Week12\\GlobalConstants.h",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\GlobalConstants.h",
+              "RelativeToolTip": "Week12\\GlobalConstants.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T08:27:56.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Week12.cpp",
+              "DocumentMoniker": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Week12.cpp",
+              "RelativeDocumentMoniker": "Week12\\Week12.cpp",
+              "ToolTip": "D:\\Projects\\C\u002B\u002B\\FMI_OOP_course_2025\\Object-oriented_programming_course_FMI_2025\\Seminari\\Week12\\Week12\\Week12.cpp",
+              "RelativeToolTip": "Week12\\Week12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T07:23:46.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
